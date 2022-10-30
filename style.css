@@ -1,0 +1,147 @@
+.container{
+  
+  }
+  
+  .flex-parent{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+  }
+
+  .flex-item h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+  }  
+  /* flex-item */
+  
+  .flex-item{
+    width: 300px;
+    height: 450px;
+    border-radius: 5px;
+  }
+  
+
+  /* item 1 */
+
+  .item-1{
+   
+    color:hsl(0,0%,95%);
+    background-color: hsl(31,77%,52%);
+    font-size: 15px; 
+    margin-left: 20px;
+    line-height: 1.5;
+  }
+  
+  .seda{
+    margin-left: 30px;
+  }
+
+  .sedans{
+    margin-left: 30px;
+    margin-top: 60px;
+  }
+  
+  
+  .sedan{ 
+    margin-top: 45px;
+    margin-left: 30px;
+  } 
+
+
+  
+  .orange{
+    margin-top: 15%;
+    border-radius: 50px;
+    color: orange;
+    padding: 15px;
+    margin-left: 25px;
+    border: none;
+    width: 45%;
+  }
+  
+  
+  /* item 2 */
+  
+  .item-2{
+     color:hsl(0,0%,95%);
+     background-color: hsl(184, 100%, 22%);
+     font-size: 15px; 
+     margin-left: 20px;
+     line-height: 1.5;
+  }
+  
+  .su{
+    margin-left: 30px;
+  }
+
+  .suvs{
+     margin-left: 30px;
+     margin-top: 60px;
+  }
+  
+  .suv{
+    margin-top: 45px;
+    margin-left: 30px;
+  } 
+  
+  .grey{
+    margin-top: 15%;
+    border-radius: 50px;
+    color: grey;
+    padding: 15px;
+    margin-left: 25px;
+    border: none;
+    width: 45%;
+  }
+  
+  
+  /* item 3 */
+  
+  .item-3{
+     background-color: hsl(179, 100%, 13%);
+     color:hsl(0,0%,95%);
+     line-height: 1.5;
+     font-size: 15px; 
+     margin-left: 20px;
+  }
+
+  .luxuries{
+    margin-left: 30px;
+    margin-top: 60px;
+  }
+  
+  .lux{
+    margin-left: 30px;
+  }
+  
+  .luxury{
+    margin-top: 45px;
+    margin-left: 30px;
+  }
+
+  button[type=button]:hover{
+    border: 2px solid white;
+    }
+
+  .dark-grey{
+    margin-top: 15%;
+    margin-left: 25px;
+    border-radius: 50px;
+    color: grey;
+    padding: 15px;
+    border: none;
+    width: 45%;
+  } 
+
+div a{
+  color: black;
+  text-decoration: none;
+}
+
+
+.grid{
+   margin-top: 20px;
+  margin-left: 20px;
+}
+
